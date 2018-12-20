@@ -1,0 +1,19 @@
+{
+  "name": "medium-editor-flat-rgb",
+  "version": "1.0.0",
+  "description": "Add colors to your document",
+  "main": "src/flat-rgb.js",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "medium",
+    "editor",
+    "flat",
+    "rgb"
+  ],
+  "author": "aureleoules",
+  "license": "MIT",
+  "homepage": 
+"https://github.com/aureleoules/medium-editor-flat-rgb"
+}
