@@ -8,6 +8,9 @@ Creates a new instance of a FlatRGB button.
 
 # How to use
 
+* Import `src/flatRGB.js` or `src/flatRGB.min.js`
+* Import `src/flatRGB.css`
+
 ```js
 window.onload = function () {
     const editor = new MediumEditor('.editor', {
